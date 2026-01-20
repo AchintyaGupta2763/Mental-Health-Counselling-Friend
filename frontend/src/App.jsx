@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./App.css";
 
-const BACKEND_URL = "http://127.0.0.1:8000";
+const BACKEND_URL = "https://mental-health-counselling-friend.onrender.com";
 
 export default function App() {
   const videoRef = useRef(null);
