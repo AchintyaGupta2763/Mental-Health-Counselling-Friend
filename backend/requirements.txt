@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+transformers
+torch
+peft
+accelerate
+bitsandbytes
+huggingface_hub
+openai-whisper
+ffmpeg-python
+coqui-tts
+soundfile
+torchcodec
